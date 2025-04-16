@@ -11,14 +11,12 @@ Shields, Michael; Aakash, B.S.; Connors, JohnPatrick (2019), “Stress-strain da
 
 ## Goals
 - Preprocess and clean real-world material data
-- Train machine learning models to predict stress/strain
+- Train machine learning models to predict ultimate stress and fracture strain
 - Evaluate and visualize model performance
-- Document the process for resume and portfolio use
 
 ## Tech Stack
 - Python, Pandas, NumPy
+- keras
 - Scikit-learn, Matplotlib, Seaborn
 - Jupyter Notebook
 
-## Status
-🚧 In Progress
